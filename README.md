@@ -1,4 +1,3 @@
 # calculator
 
-#bmi calculator
 /bmicalculator
